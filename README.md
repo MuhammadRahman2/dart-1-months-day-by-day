@@ -21,23 +21,40 @@ Day 6: Practice programs (calculator, factorial).
 
 Day 7: Review + upload Dart code to GitHub.
 
+
 Week 2 (Days 8–14)
+
 Day 8: Classes, objects, constructors.
+
 Day 9: Inheritance & overriding.
+
 Day 10: Abstract classes & interfaces.
+
 Day 11: Getters/setters, encapsulation.
+
 Day 12: Async/await.
+
 Day 13: Streams & error handling.
+
 Day 14: Console project (Student Record App).
 
+
 Week 3 (Days 15–21)
+
 Day 15: First Flutter app (main, runApp, MaterialApp).
+
 Day 16: Scaffold, AppBar, Text, Container.
+
 Day 17: Row, Column, Stack layouts.
+
 Day 18: ListView, GridView.
+
 Day 19: Buttons.
+
 Day 20: Images, Icons, text styling.
+
 Day 21: Two-screen demo app with navigation.
+
 
 Week 4 (Days 22–30)
 Day 22: Stateful widgets (setState).
