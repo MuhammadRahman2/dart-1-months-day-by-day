@@ -1,6 +1,5 @@
 // Write a function that takes a list of numbers and returns the maximum number
 // without using .reduce() (use a loop).
-import 'dart:math';
 
 void main() {
   maximum();
