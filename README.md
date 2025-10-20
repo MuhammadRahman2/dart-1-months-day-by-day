@@ -1,6 +1,6 @@
-# flutter-6-months-day-by-day
-Let’s expand the entire 6-month plan day by day (around 180 days). I’ll keep each week 7 days with clear daily tasks and mini-deliverables.
-6-Month Day-by-Day Flutter Developer Plan
+# Dart-1-months-day-by-day
+the entire 1-month plan day by day (around 30 days). I’ll keep each week 7 days with clear daily tasks and mini-deliverables.
+1-Month Day-by-Day Flutter Developer Plan
 Month 1 – Dart & Flutter Basics (Days 1–30)
 
 (already given earlier, but I’ll keep it here for completeness)
