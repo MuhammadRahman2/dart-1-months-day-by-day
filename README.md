@@ -5,43 +5,27 @@ Month 1 – Dart & Flutter Basics (Days 1–30)
 
 (already given earlier, but I’ll keep it here for completeness)
 
-Week 1 (Days 1–7)
+### Week 1 – Dart Basics
+| Day | Topic | Folder Link |
+|-----|--------|-------------|
+| 001 | Variables & Data Types | [View Code](./day001) |
+| 002 | Operator & Expression  | [View Code](./day002) |
+| 003 | Control Flow (if-else, loop) | [View Code](./day003) |
+| 004 | Functions & Parameters  Lists, Sets & Maps | [View Code](./day004) |
+| 005 | Lists, Sets & Maps  | [View Code](./day005) |
+| 006 | Practice Tasks | [View Code](./day006) |
+| 007 | Mini Project: CLI App | [View Code](./day014) |
 
-Day 1: Install Flutter, set up IDE + emulator.
-
-Day 2: Variables, types, input/output in Dart.
-
-Day 3: Operators & math programs.
-
-Day 4: If/else, loops.
-
-Day 5: Functions.
-
-Day 6: Practice programs (calculator, factorial).
-
-Day 7: Review + upload Dart code to GitHub.
-
-
-Week 2 (Days 8–14)
-
-Day 8: Classes, objects, constructors.
-
-Day 9: Inheritance & overriding.
-
-Day 10: Abstract classes & interfaces.
-
-Day 11: Getters/setters, encapsulation.
-
-Day 12: Async/await.
-
-Day 13: Streams & error handling.
-
-Day 14: Console project (Student Record App).
-
-
-after WE will real world practice all of those to understand
-
- 
+### Week 2 – Object-Oriented Dart
+| Day | Topic | Folder Link |
+|-----|--------|-------------|
+| 008 | Classes & Objects | [View Code](./day008) |
+| 009 | Constructors & `this` keyword | [View Code](./day009) |
+| 010 | Inheritance | [View Code](./day010) |
+| 011 | Polymorphism | [View Code](./day011) |
+| 012 | Abstract Classes & Interfaces | [View Code](./day012) |
+| 013 | Enums & Static Members | [View Code](./day013) |
+| 014 | Real-World OOP Practice | [View Code](./day014) |
 
 
 
