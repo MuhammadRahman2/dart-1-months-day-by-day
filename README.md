@@ -8,7 +8,7 @@ Month 1 – Dart & Flutter Basics (Days 1–30)
 ### Week 1 – Dart Basics
 | Day | Topic | Folder Link |
 |-----|--------|-------------|
-| 001 | Variables & Data Types | [View Code](./day001) |
+| 001 | Variables & Data Types | [[View Code](https://github.com/MuhammadRahman2/dart-1-months-day-by-day/tree/developer/day1)](./day001) |
 | 002 | Operator & Expression  | [View Code](./day002) |
 | 003 | Control Flow (if-else, loop) | [View Code](./day003) |
 | 004 | Functions & Parameters  Lists, Sets & Maps | [View Code](./day004) |
